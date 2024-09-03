@@ -1,0 +1,16 @@
+{
+  "description": "Generated API documentation",
+  "endpoints": [
+    {
+      "method": "GET",
+      "path": "https://fakestoreapi.com/products",
+      "responses": [
+        "200 OK",
+        "404 Not Found"
+      ],
+      "summary": "Example GET request"
+    }
+  ],
+  "title": "Sample API",
+  "version": "1.0.0"
+}
